@@ -1,7 +1,11 @@
 <!-- Header Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&width=500&height=50&lines=Hey+there!+I'm+Rajdeep+Biswas;Android+System+Explorer+%7C+ROM+Tester+%7C+Magisk+Tweaker" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="100%" alt="Banner" />
 </p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Rajdeep+Biswas!" alt="Typing SVG" />
+</h1>
 
 ---
 
