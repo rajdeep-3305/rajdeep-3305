@@ -51,7 +51,7 @@
 ## 📫 Connect with Me
 
 - 📧 Email: rajdeepbiswas3305@gmail.com 
-- 🌐 LinkedIn: soon!
+- 🌐 Website: https://rajdeep-3305.github.io 
 
 ---
 
