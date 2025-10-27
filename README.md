@@ -25,7 +25,7 @@
 ### 🛠️ My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=android,java,kotlin,c,cpp,python,bash,linux,git,github,matlab&theme=tokyonight" />
+    <img src="https://skillicons.dev/icons?i=git,github,arch,c,bash,gcp,gitlab" />
   </a>
 </p>
 
@@ -34,29 +34,19 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajdeep-3305&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Rajdeep's GitHub Stats" height="192px" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajdeep-3305&theme=tokyonight_duo&hide_border=true" alt="Rajdeep's Streak Stats" height="192px" />
-  
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep-3305&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Rajdeep's Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api?username=rajdeep-3305&show_icons=true&locale=en&theme=tokyonight" alt="rajdeep-3305") height="192px" />
 </p>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajdeep-3305&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Rajdeep's GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajdeep-3305&theme=tokyonight_duo&hide_border=true" alt="Rajdeep's Streak Stats" height="192px" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep-3305&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Rajdeep's Top Languages" />
 </p>
 
 ---
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajdeep-3305/rajdeep-3305/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajdeep-3305/rajdeep-3305/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/rajdeep-3305/rajdeep-3305/output/github-contribution-grid-snake.svg" />
-  </picture>
-
-</div>
 
 <!-- Footer Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:3A0CA3&height=120&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:3A0CA3&height=120&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=03d5b1" width="100%" />
 </p>
