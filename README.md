@@ -7,53 +7,50 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Rajdeep+Biswas!" alt="Typing SVG" />
 </h1>
 
----
+<p>
+    An engineer from India and an Android enthusiast.<br />
+    In the Android community, I'm also known by the alias <b>Casanova</b>.
+  </p>
+  
+  <br />
 
-<h3 align="center">📱 Android Enthusiast | System Debugger | Community Contributor</h3>
+  <p>
+    As a hobby, I enjoy building custom ROMs and maintain several projects:
+  </p>
+  <p>
+    <b>crDroid</b> | <b>Infinity-X</b> | <b>Lunaris AOSP</b>
+    <br />
+    (for <b>rubyx</b>)
+  </p>
 
----
+  <p>
+    I also have a background in Electrical Engineering, currently learning tools like <b>MATLAB</b> and <b>COMSOL</b>.
+  </p>
 
-## 🧑‍💻 About Me
+  <br />
 
-- 🎓 3rd-year Electrical Engineering student @ *NIT Durgapur*  
-- ⚙ Hands-on with *Android internals*, *custom ROMs*, *bootloader unlocking*, *Magisk modules*  
-- 🧩 Debugged bootloops, fixed soft bricks, and optimized device performance  
-- 🧠 Contributed to Android communities via bug reports, testing feedback & user support  
-- 🛠 Currently exploring *system scripting*, *C/Python*, and *embedded OS concepts*
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=rajdeep-3305&show_icons=true&theme=tokyonight" alt="Rajdeep's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep-3305&layout=compact&theme=tokyonight" alt="Rajdeep's Top Languages" />
+  </p>
 
----
+  <br />
 
-## 🛠 Tools & Technologies
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=android,java,kotlin,c,cpp,python,bash,matlab" />
+    </a>
+  </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-basic-00599C?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/Python-basic-3670A0?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Shell‑Scripting-4EAA25?style=for-the-badge&logo=gnu-bash" />
-  <br><br>
-  <img src="https://img.shields.io/badge/ADB-Android-3DDC84?style=for-the-badge&logo=android" />
-  <img src="https://img.shields.io/badge/Fastboot-CLI-6E6E6E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Magisk-Modules-26A69A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TWRP-Recovery-blue?style=for-the-badge" />
-</p>
+  <br />
 
----
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajdeep-3305/rajdeep-3305/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajdeep-3305/rajdeep-3305/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/rajdeep-3305/rajdeep-3305/output/github-contribution-grid-snake.svg" />
+  </picture>
 
-## 🧠 Things I’ve Done (So Far)
-
-✅ Flashed & tested 20+ ROMs across devices  
-✅ Created custom *Magisk modules* for personal-use tweaks  
-✅ Used ADB/Fastboot to rescue bootloops and analyze crash logs  
-✅ Reported device-specific bugs to maintainers and contributed log traces  
-✅ Helped users solve soft-brick & module conflicts in online Android forums  
-
----
-
-## 📫 Connect with Me
-
-- 📧 Email: rajdeepbiswas3305@gmail.com 
-- 🌐 Website: https://rajdeep-3305.github.io 
-
----
+</div>
 
 <!-- Footer Animation -->
 <p align="center">
