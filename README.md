@@ -4,45 +4,49 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Rajdeep+Biswas!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=1000&center=true&width=600&lines=Hi%2C+I'm+Rajdeep+Biswas!+(aka+Casanova);Android+Enthusiast+%26+ROM+Developer" alt="Typing SVG" />
 </h1>
 
+---
+
+### 🙋‍♂️ About Me
 <p>
-    An engineer from India and an Android enthusiast.<br />
-    In the Android community, I'm also known by the alias <b>Casanova</b>.
-  </p>
+  I'm an engineer from India and a passionate <b>Android enthusiast</b>. In the Android community, I'm known by my alias, <b>Casanova</b>.
+  
+  * 🚀 I love building and maintaining custom ROMs for <b>rubyx</b> [Redmi Note 12 Pro/ Pro + 5G/ Discovery]
+  * 💻 Unofficial maintainer for <b>crDroid</b>, <b>Infinity-X</b>, and <b>Lunaris AOSP</b>.
+  * 🐉 Quite some knowledge in Android rooting and <b>Magisk</b>, creating modules for both personal use and the community.
+  * ⚡ My background is in Electrical Engineering, and I'm currently expanding my skills in tools like <b>MATLAB</b>, <b>COMSOL</b>, <b>SIMULINK</b> and <b>AUTOCAD</b>.
+  * 🤝 Active community member, always happy to collaborate with other developers and help users.
+</p>
+
+---
+
+### 🛠️ My Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=android,java,kotlin,c,cpp,python,bash,linux,git,github,matlab&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajdeep-3305&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Rajdeep's GitHub Stats" height="192px" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajdeep-3305&theme=tokyonight_duo&hide_border=true" alt="Rajdeep's Streak Stats" height="192px" />
   
   <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep-3305&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Rajdeep's Top Languages" />
+</p>
 
-  <p>
-    As a hobby, I enjoy building custom ROMs and maintain several projects:
-  </p>
-  <p>
-    <b>crDroid</b> | <b>Infinity-X</b> | <b>Lunaris AOSP</b>
-    <br />
-    (for <b>rubyx</b>)
-  </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajdeep-3305&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Rajdeep's GitHub Trophies" />
+</p>
 
-  <p>
-    I also have a background in Electrical Engineering, currently learning tools like <b>MATLAB</b> and <b>COMSOL</b>.
-  </p>
-
-  <br />
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=rajdeep-3305&show_icons=true&theme=tokyonight" alt="Rajdeep's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep-3305&layout=compact&theme=tokyonight" alt="Rajdeep's Top Languages" />
-  </p>
-
-  <br />
-
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=android,java,kotlin,c,cpp,python,bash,matlab" />
-    </a>
-  </p>
-
-  <br />
+---
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajdeep-3305/rajdeep-3305/output/github-contribution-grid-snake-dark.svg" />
