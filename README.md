@@ -14,7 +14,7 @@
   I'm an engineer from India and a passionate <b>Android enthusiast</b>. In the Android community, I'm known by my alias, <b>Casanova</b>.
   
   * 🚀 I love building and maintaining custom ROMs for <b>rubyx</b> [Redmi Note 12 Pro/ Pro + 5G/ Discovery]
-  * 💻 Unofficial maintainer for ROMs like <b>crDroid</b>, <b>Infinity-X</b>, <b>Lunaris AOSP</b> etc.
+  * 💻 Unofficial maintainer for ROMs like <b>crDroid</b>, <b>AxionOS</b>, <b>Lunaris AOSP</b> etc.
   * 🐉 Quite some knowledge in Android rooting and <b>Magisk</b>, creating modules for both personal use and the community.
   * ⚡ My background is in Electrical Engineering, and I'm currently expanding my skills in tools like <b>MATLAB</b>, <b>COMSOL</b>, <b>SIMULINK</b> and <b>AUTOCAD</b>.
   * 🤝 Active community member, always happy to collaborate with other developers and help users.
