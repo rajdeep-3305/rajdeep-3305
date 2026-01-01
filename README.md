@@ -34,13 +34,10 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=rajdeep-3305&show_icons=true&locale=en&theme=tokyonight" alt="rajdeep-3305") height="192px" />
-</p>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rajdeep-3305&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="rajdeep-3305" height="180px" />
+</p>  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajdeep-3305&theme=tokyonight_duo&hide_border=true" alt="Rajdeep's Streak Stats" height="192px" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep-3305&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Rajdeep's Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rajdeep-3305&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Rajdeep's Top Languages" />
 </p>
 
 ---
