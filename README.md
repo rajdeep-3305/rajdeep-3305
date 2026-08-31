@@ -2,8 +2,7 @@
 
 <p align="center">
   <i>
-  "Sifting through the hex to find the heartbeat.<br>
-  What remains is the build; everything else is noise..."
+  "Fragments drift — some known, some lost, some scripted in quiet code...<br>
   </i>
 </p>
 
